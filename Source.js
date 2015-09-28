@@ -1,4 +1,5 @@
 function HelloWorld(){
-console.log("Hello WOrld");
-
+console.log("Hello World");
 }
+
+HelloWorld();
